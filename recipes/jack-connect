@@ -1,1 +1,1 @@
-(jack-connect :fetcher git :url "https://bitbucket.org/sbarbit/jack-connect")
+(jack-connect :fetcher bitbucket-git :repo "sbarbit/jack-connect")

@@ -1,2 +1,1 @@
-(zenity-color-picker :fetcher git
-                     :url "https://bitbucket.org/Soft/zenity-color-picker.el")
+(zenity-color-picker :fetcher bitbucket-git :repo "zenity-color-picker.el")

@@ -1,3 +1,1 @@
-(ttl-mode
- :fetcher bitbucket
- :repo "nxg/ttl-mode")
+(ttl-mode :fetcher bitbucket-hg :repo "nxg/ttl-mode")

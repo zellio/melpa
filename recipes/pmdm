@@ -1,1 +1,1 @@
-(pmdm :fetcher bitbucket :repo "inigoserna/pmdm.el")
+(pmdm :fetcher bitbucket-hg :repo "inigoserna/pmdm.el")

@@ -1,1 +1,1 @@
-(grin :fetcher bitbucket :repo "dariusp686/emacs-grin")
+(grin :fetcher bitbucket-hg :repo "dariusp686/emacs-grin")

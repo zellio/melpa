@@ -1,1 +1,1 @@
-(ahg :fetcher bitbucket :repo "agriggio/ahg")
+(ahg :fetcher bitbucket-hg :repo "agriggio/ahg")

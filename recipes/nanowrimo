@@ -1,1 +1,1 @@
-(nanowrimo :fetcher bitbucket :repo "gvol/nanowrimo.el")
+(nanowrimo :fetcher bitbucket-hg :repo "gvol/nanowrimo.el")

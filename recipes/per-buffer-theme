@@ -1,1 +1,1 @@
-(per-buffer-theme :fetcher bitbucket :repo "inigoserna/per-buffer-theme.el")
+(per-buffer-theme :fetcher bitbucket-hg :repo "inigoserna/per-buffer-theme.el")

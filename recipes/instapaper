@@ -1,3 +1,1 @@
-(instapaper
- :fetcher bitbucket
- :repo "jfm/emacs-instapaper")
+(instapaper :fetcher bitbucket-hg :repo "jfm/emacs-instapaper")

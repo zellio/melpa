@@ -1,1 +1,1 @@
-(pydoc-info :fetcher bitbucket :repo "jonwaltman/pydoc-info")
+(pydoc-info :fetcher bitbucket-hg :repo "jonwaltman/pydoc-info")

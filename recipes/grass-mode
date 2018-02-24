@@ -1,1 +1,1 @@
-(grass-mode :fetcher bitbucket :repo "tws/grass-mode.el")
+(grass-mode :fetcher bitbucket-hg :repo "tws/grass-mode.el")

@@ -1,3 +1,2 @@
-(catmacs :url "https://bitbucket.org/pymaximus/catmacs"
-         :fetcher git )
+(catmacs :fetcher bitbucket-git :repo "pymaximus/catmacs")
          

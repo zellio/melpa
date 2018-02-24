@@ -1,1 +1,1 @@
-(erc-hipchatify :fetcher bitbucket :repo "seanfarley/erc-hipchatify")
+(erc-hipchatify :fetcher bitbucket-hg :repo "seanfarley/erc-hipchatify")

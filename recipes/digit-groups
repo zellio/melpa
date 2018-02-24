@@ -1,1 +1,1 @@
-(digit-groups :fetcher bitbucket :repo "adamsmd/digit-groups")
+(digit-groups :fetcher bitbucket-hg :repo "adamsmd/digit-groups")

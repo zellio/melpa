@@ -1,3 +1,1 @@
-(flex-isearch
- :fetcher bitbucket
- :repo "jpkotta/flex-isearch")
+(flex-isearch :fetcher bitbucket-hg :repo "jpkotta/flex-isearch")

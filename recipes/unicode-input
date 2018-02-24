@@ -1,1 +1,1 @@
-(unicode-input :fetcher bitbucket :repo "m00nlight/unicode-input")
+(unicode-input :fetcher bitbucket-hg :repo "m00nlight/unicode-input")

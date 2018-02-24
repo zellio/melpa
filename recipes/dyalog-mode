@@ -1,4 +1,4 @@
 (dyalog-mode
- :fetcher bitbucket
+ :fetcher bitbucket-hg
  :repo "harsman/dyalog-mode"
  :files (:defaults "Emacs.apl"))

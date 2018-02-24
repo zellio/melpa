@@ -1,1 +1,1 @@
-(faustine :fetcher git :url "https://bitbucket.org/yphil/faustine")
+(faustine :fetcher bitbucket-git :repo "yphil/faustine")

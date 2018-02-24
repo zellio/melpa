@@ -1,3 +1,1 @@
-(syntax-subword
- :fetcher bitbucket
- :repo "jpkotta/syntax-subword")
+(syntax-subword :fetcher bitbucket-hg :repo "jpkotta/syntax-subword")
